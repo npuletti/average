@@ -1,0 +1,11 @@
+Package: average
+Type: Package
+Title: Medie speciali
+Version: 0.0-1
+Date: 2017-02-11
+Author: Nicola P
+Maintainer: Nicola Puletti <nicola.puletti@gmail.com>
+Description: Funzioni avanzate per il calcolo della media
+License: GPL-3
+URL: http://www.insular.it/
+RoxygenNote: 6.0.1
